@@ -1,0 +1,7 @@
+Armando Alvarez
+CSC546
+Spring 2025
+
+BEZIER CURVE EDITOR
+
+All of the files in the BezierCurve folder are needed to run my program. I used wxWidgets 3.2.7 and Visual Studio to run this program.
